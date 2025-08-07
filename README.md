@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ChoiBillu
-- 👀 I’m interested in Cyber Security and AI Dev
-- 🌱 I’m currently learning Python 
-- 🏫 Alevels Student
+- Hi, I’m Bilal
+- I’m interested in Cyber Security and AI Dev
+- I’m currently learning Python 
+- Alevels Student
 
 <!---
 ChoiBillu/ChoiBillu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
