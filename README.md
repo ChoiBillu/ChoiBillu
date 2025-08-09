@@ -1,5 +1,5 @@
 - Hi, I’m Bilal
-- I’m interested in Cyber Security and AI Dev
+- I’m interested in Cyber Security and Economics
 - I’m currently learning Python 
 - BSCS @ NUCES-FAST
 
